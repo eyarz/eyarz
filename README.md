@@ -14,7 +14,7 @@
 
 ###  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyarz&show_icons=true&count_private=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyarz&show_icons=true&count_private=true&theme=nord&hide=stars)
 
 ### Technologies that I'm passionate about: 
 Python, Node.js, Git, CI/CD, Infrastructure as code, GitOps, Kubernetes, Policy as code, Process automation.
