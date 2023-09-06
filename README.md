@@ -1,3 +1,15 @@
+
+<img width="616" alt="Screenshot 2023-09-06 at 20 45 25" src="https://github.com/eyarz/eyarz/assets/19731161/9437c00f-d0eb-498a-a69e-0673379e3a4a">
+
+n August 10, 2023, HashiCorp announced a change of license for its products, including Terraform. After ~9 years of Terraform being open source under the MPL v2 license, it was to move under a non-open source BSL v1.1 license, starting from the next (1.6) version.
+
+It is our belief that under the business license, the future of Terraform looks bleak. Community focus will shift, businesses will start looking for OSS alternatives, and independent tooling will gradually disappear. 
+
+Simply put, the license is a poison pill for the Terraform ecosystem. One that will also have a ripple effect on other open-source projects, and undermine the credibility of open-source as a concept.
+
+With this in mind, we are proud to be one of the first companies to join together in OpenTF, an initiative to keep Terraform open source–forever.
+
+
 ### 👋 Hi there, I'm Eyar Zilberman
 
 <a href="https://twitter.com/eyarzilb" target="blank">
