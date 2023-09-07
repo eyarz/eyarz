@@ -10,21 +10,15 @@
 
 <p align="left">
   <a href="https://www.env0.com/" target="blank">
-    <img src="https://github.com/eyarz/eyarz/assets/19731161/7c7aeb76-06a3-4d54-bb15-68946a66106f" alt="env0-logo-with-text" width="50%">
+    <img src="https://github.com/eyarz/eyarz/assets/19731161/7c7aeb76-06a3-4d54-bb15-68946a66106f" alt="env0-logo-with-text" width="30%">
   </a>
 </p>
 
-On August 10, 2023, HashiCorp announced a change of license for its products, including Terraform. After ~9 years of Terraform being open source under the MPL v2 license, it was to move under a non-open source BSL v1.1 license, starting from the next (1.6) version.
-
-It is our belief that under the business license, the future of Terraform looks bleak. Community focus will shift, businesses will start looking for OSS alternatives, and independent tooling will gradually disappear. 
-
-Simply put, the license is a poison pill for the Terraform ecosystem. One that will also have a ripple effect on other open-source projects, and undermine the credibility of open-source as a concept.
-
-With this in mind, we are proud to be one of the first companies to join together in OpenTF, an initiative to keep Terraform open source–forever.
+Scale IaC with Confidence. Working to ensure Terraform remains truly open source—always.
 
 [![opentf repo card](https://github-readme-stats.vercel.app/api/pin/?username=opentffoundation\&repo=opentf\&show_owner=true)](https://github.com/opentffoundation/opentf)
 
-
+Join the conversation: [https://opentfcommunity.slack.com/](https://opentfcommunity.slack.com/)
 
 
 
