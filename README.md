@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/eyar-zilberman/" target="blank"></a>
 </p>
 
-https://raw.githubusercontent.com/eyarz/ai-token-graph/refs/heads/master/graph.svg
+![Claude Token Usage](https://raw.githubusercontent.com/eyarz/ai-token-graph/refs/heads/master/graph.svg)
 
 <a href="https://twitter.com/eyarzilb" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/svgs/brands/twitter.svg" alt="Twitter" height="20" width="20" />
