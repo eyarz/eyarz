@@ -1,9 +1,7 @@
 
 👋 Hi there, **I'm Eyar Zilberman** 🔧
 <p align="left">
-  <a href="https://www.linkedin.com/in/eyar-zilberman/" target="blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=eyarz&show_icons=true&count_private=true&theme=nord&hide=stars&rank_icon=github" alt="env0-logo-with-text" width="50%">
-  </a>
+  <a href="https://www.linkedin.com/in/eyar-zilberman/" target="blank"></a>
 </p>
 
 <a href="https://twitter.com/eyarzilb" target="blank">
@@ -17,9 +15,6 @@
 <a href="https://www.linkedin.com/in/eyar-zilberman/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.2/svgs/brands/linkedin.svg" alt="LinkedIn" height="20" width="20" />
 </a>  
-
-### Technologies that I'm passionate about: 
-Python, Node.js, Git, CI/CD, Infrastructure as code, GitOps, Kubernetes, Policy as code, Process automation.
 
 <!--
 ![Anurag's GitHub lang](https://github-readme-stats.vercel.app/api/top-langs?username=eyarz&show_icons=true&theme=dark&locale=en&layout=compact)
